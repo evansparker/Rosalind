@@ -1,0 +1,12 @@
+s = HumptyDumptysatonawallHumptyDumptyhadagreatfallAlltheKingshorsesandalltheKingsmenCouldntputHumptyDumptyinhisplaceagain
+a = 22
+b = 27
+c = 92
+d = 102
+
+b = b +1
+d = d +1
+
+slice1 = s[a:b]
+sice2 = s[c:d]
+print ('%s %s') % (slice1, slice2)
