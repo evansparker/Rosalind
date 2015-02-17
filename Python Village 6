@@ -1,1 +1,12 @@
-#
+dict = {}
+x = 'We tried list and we tried dicts also we tried Zen'
+
+X_ls = s.split
+
+for item in x:
+  if item in x:
+    x[item] += 1, 
+  else:
+    x[item] =1
+for key, value in x.iteritems():
+  print ('%r %s) % (key, value)
